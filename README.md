@@ -23,8 +23,8 @@
 
 ## 👩‍💻 Sobre mí
 
-- 🇩🇴 Somos Sthefany Ángeles, futura ingeniera de software de la República Dominicana.  
-- 🌐 Nos especializamos en desarrollo web con **React**, **Next.js** y **React Native**.  
+- 🇩🇴 Sthefany Ángeles,  ingeniera de software de la República Dominicana.  
+- 🌐 Expecializada en desarrollo web con **React**, **Next.js** y **React Native**.  
 - 📖 Apasionados por aprender nuevas tecnologías y temas de economía.  
 - ⚡ En nuestro tiempo libre, practicamos programación competitiva y entrenamientos HIIT.
 
