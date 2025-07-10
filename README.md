@@ -1,64 +1,60 @@
 <div align="center">
-  <img height="250" src="https://github.com/AngRodSt/AngRodSt/blob/main/Img.jpeg" alt="Profile Image" />
-  <h1>Welcome to AngRod Island 👋🏝️</h1>
+  <img src="https://github.com/AngRodSt/AngRodSt/blob/main/Img.jpeg" alt="Sthefany Ángeles" width="200" style="border-radius:50%;" />
+  <h1>¡Bienvenidos a AngRod Island! 👋🏝️</h1>
 </div>
 
 ---
 
+### 📫 Conectemos
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/sthefanyang-2dacuenta-6348642ba/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.instagram.com/angeles_sth/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=Angeles_sth&color=E4405F&logoColor=white&labelColor=E4405F&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=sthefanyangeles@gmail.com&color=D14836&logoColor=white&labelColor=D14836&style=for-the-badge" height="25" alt="gmail logo" />
+<a href="https://www.linkedin.com/in/sthefanyang-2dacuenta-6348642ba/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/angeles_sth/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:sthefanyangeles@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 Sobre mí
 
-- 🇩🇴 Hi, I'm Sthefany from Dominican Republic.
-- 📚 Currently learning web programming, expanding my skills in building dynamic websites.
-- ⚡ In my free time, I enjoy practicing coding and exploring topics in economics to stay informed.
+- 🇩🇴 Somos Sthefany Ángeles, futura ingeniera de software de la República Dominicana.  
+- 🌐 Nos especializamos en desarrollo web con **React**, **Next.js** y **React Native**.  
+- 📖 Apasionados por aprender nuevas tecnologías y temas de economía.  
+- ⚡ En nuestro tiempo libre, practicamos programación competitiva y entrenamientos HIIT.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="36" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="36" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="36" />
 </div>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngRodSt&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngRodSt&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngRodSt&theme=tokyonight&hide_border=true" height="180" alt="GitHub Activity Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AngRodSt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="170" alt="Languages Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AngRodSt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AngRodSt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350" />
 </div>
 
 ---
 
-## 🚀 Quick Facts
-
-- 🔥 **Total Commits:** ¡Más de [tu número actual] commits en repos públicos y privados!
-- ✨ **Último commit:** Siempre activo en proyectos web y colaboraciones.
-- 🌱 **Aprendiendo:** JavaScript, Python, Tailwind CSS, y más.
-- 📅 **Contribuciones recientes:** Mira mi actividad en los gráficos de arriba.
-
----
-
-<div align="center">
-  <b>¡Gracias por visitar mi perfil! 😊</b>
+<div align="center">  
+  <strong>¡Gracias por visitar mi perfil! 😊</strong>  
 </div>
