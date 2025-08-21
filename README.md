@@ -78,13 +78,13 @@
 ## 📫 Let’s Connect  
 
 <div align="center">  
-  <a href="https://www.linkedin.com/in/sthefanyang-2dacuenta-6348642ba/" target="_blank">  
+  <a href="https://www.linkedin.com/in/sthefany-%C3%A1ngeles-rodr%C3%ADguez-6348642ba/" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
   </a>  
   <a href="https://www.instagram.com/angeles_sth/" target="_blank">  
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>  
   </a>  
-  <a href="mailto:sthefanyangeles@gmail.com">  
+  <a href="mailto:sthefanyangeles00@gmail.com">  
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>  
   </a>  
 </div>  
