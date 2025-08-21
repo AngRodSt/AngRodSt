@@ -3,7 +3,7 @@
   <h1>🌴 Welcome to AngRod Island! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" /></h1>  
 
   <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+FullStack+Developer;Always+Learning+%7C+Building+%7C+Growing;JavaScript+%7C+Python+%7C+React+%7C+Next.js+%7C+AI+Integration+%7C+React+Native" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+FullStack+Developer;Always+Learning+%7C+Building+%7C+Growing;JavaScript+%7C+Python+%7C+React+%7C+Next.js+%7C+AI+Integration" alt="Typing SVG" />
 </div>  
 
 ---
