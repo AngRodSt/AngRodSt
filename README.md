@@ -1,5 +1,5 @@
 <div align="center">  
-  <img src="https://github.com/AngRodSt/AngRodSt/blob/main/Img.jpeg" alt="Sthefany Ángeles" width="200" style="border-radius:50%;" />  
+  <img src="https://github.com/AngRodSt/AngRodSt/blob/main/Banner.jpeg" alt="Sthefany Ángeles" width="200" style="border-radius:50%;" />  
   <h1>🌴 Welcome to AngRod Island! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" /></h1>  
 
   <!-- Typing SVG -->
