@@ -1,59 +1,50 @@
 <div align="center">  
-    <img src="https://github.com/AngRodSt/AngRodSt/blob/main/BannerProfile.png" alt="Sthefany Ángeles" width="1080"  />  
-  <h1>🌴 Welcome to AngRod Island! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" /></h1>  
+  <img src="https://github.com/AngRodSt/AngRodSt/blob/main/BannerProfile.png" alt="Sthefany Ángeles" width="1080" />  
+  <h1>🧪 Welcome to AngRod QA Lab! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" /></h1>  
 
   <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+FullStack+Developer;Always+Learning+%7C+Building+%7C+Growing;JavaScript+%7C+Python+%7C+React+%7C+Next.js+%7C+AI+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=QA+Engineer+%7C+Manual+%26+Automated+Testing;Quality+Driven+Development+%7C+Clean+Code;Cypress+%7C+Selenium+%7C+Playwright+%7C+Jest" alt="Typing SVG" />
 </div>  
 
 ---
 
 ## 👩‍💻 About Me  
 
-- 🇩🇴 **Sthefany Ángeles** — Software Engineer from the Dominican Republic.  
-- 🌐 Specialized in **React**, **Next.js**, and **React Native** for web & mobile.
-- 🧪 Advocate of **clean code, testing practices, and quality-driven development**.  
-- 🤖 Currently exploring **AI-related fields**: LLMs, RAG patterns, vector search, and AI-assisted product features.  
-- ⚡ I enjoy **competitive programming** and **HIIT** when I’m not shipping features.  
+- 🇩🇴 **Sthefany Ángeles** — QA Engineer from the Dominican Republic.  
+- 🔍 Specialized in **manual & automated testing**, with a solid foundation in **software engineering**.  
+- 🧩 Experienced in **Cypress**, **Selenium**, and **Jest** for functional, regression, and E2E testing.  
+- 💡 Strong understanding of **frontend architecture (React, Next.js, React Native)**, enabling effective collaboration with dev teams.  
+- 🚀 Passionate about improving **software quality, user experience, and testing efficiency**.  
 
 ---
 
 ## 🌱 Currently Learning & Working On  
 
-- 📌 **Expanding expertise** in full-stack development with **Next.js** & **TypeScript**  
-- 📌 Exploring **UI/UX best practices** for smoother user experiences  
-- 📌 **AI integration** in apps (prompt design, retrieval-augmented workflows, inference tooling)
-- 📌 Improving **automated testing workflows** using **Jest, Cypress, and React Testing Library**.  
-- 📌 Stronger **TypeScript** patterns for scalable frontends  
+- 📌 Enhancing **automation workflows** with Cypress and Playwright.  
+- 📌 Practicing **manual testing techniques** for exploratory and regression testing.  
+- 📌 Integrating QA pipelines into **CI/CD workflows**.  
+- 📌 Strengthening documentation and test case design for better QA visibility.  
+- 📌 Exploring **AI-assisted testing tools** and automation strategies.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 <div align="center">  
-  <!-- Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" title="React Native"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40"/>
-  <!-- Backend & Tools -->
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40"/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40"/>
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40"/>  
-  <!-- AI / Infra / Misc -->
-  <img src="https://skillicons.dev/icons?i=opencv" alt="AI Integration" width="40" title="AI Integration"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40"/>
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40"/>
-  <!-- Testing -->
-  <img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="40" title="Jest Testing"/>
+  <!-- QA Tools -->
   <img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" width="40" title="Cypress"/>  
+  <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="40" title="Selenium"/>  
+  <img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="40" title="Jest"/>  
+
+  <!-- Core Dev Skills -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40"/>  
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40"/>  
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40"/>  
 </div>  
 
 ---
@@ -93,10 +84,11 @@
 
 ## 💡 Fun Fact  
 
-> ✨ *"Technology is not only about solving problems — it’s about creating opportunities and inspiring others."* ✨  
+> 🧠 *"Quality isn’t just about testing — it’s about understanding users, anticipating issues, and building trust in every release."*
 
 ---
 
 <div align="center">  
-  <strong>🌟 Thanks for visiting — let’s build something amazing together! 🌟</strong>  
-</div
+  <strong>💫 Thanks for visiting — let's ensure quality together! 💫</strong>  
+</div>
+
